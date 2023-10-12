@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning NestJS
+
 <a href="https://app.daily.dev/lucfrodr"><img src="https://api.daily.dev/devcards/f7e81c195db54db492b597094e486eec.png?r=lnd" width="200" alt="Lucía Rodríguez's Dev Card"/></a>
 
 <!--
