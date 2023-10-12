@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/lucfrodr"><img src="https://api.daily.dev/devcards/f7e81c195db54db492b597094e486eec.png?r=lnd" width="400" alt="Lucía Rodríguez's Dev Card"/></a>
+<a href="https://app.daily.dev/lucfrodr"><img src="https://api.daily.dev/devcards/f7e81c195db54db492b597094e486eec.png?r=lnd" width="200" alt="Lucía Rodríguez's Dev Card"/></a>
 
 <!--
 **LuuRoldan/LuuRoldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
